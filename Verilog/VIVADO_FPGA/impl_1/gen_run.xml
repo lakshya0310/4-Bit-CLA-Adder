@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7s50csga324-1" LaunchTime="1732008494">
+  <File Type="BITSTR-BMM" Name="CLA_4bit_PTL_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="CLA_4bit_PTL_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="CLA_4bit_PTL_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="CLA_4bit_PTL_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="CLA_4bit_PTL.tcl"/>
+  <File Type="OPT-TIMING" Name="CLA_4bit_PTL_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="CLA_4bit_PTL_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="CLA_4bit_PTL_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="CLA_4bit_PTL_reports.tcl"/>
+  <File Type="OPT-DRC" Name="CLA_4bit_PTL_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="CLA_4bit_PTL.hwdef"/>
+  <File Type="PWROPT-DCP" Name="CLA_4bit_PTL_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="CLA_4bit_PTL_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="CLA_4bit_PTL_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="CLA_4bit_PTL_placed.dcp"/>
+  <File Type="PLACE-IO" Name="CLA_4bit_PTL_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="CLA_4bit_PTL_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="CLA_4bit_PTL_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="CLA_4bit_PTL_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="CLA_4bit_PTL_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="CLA_4bit_PTL_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="CLA_4bit_PTL_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="CLA_4bit_PTL.bgn"/>
+  <File Type="PLACE-TIMING" Name="CLA_4bit_PTL_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="CLA_4bit_PTL_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="CLA_4bit_PTL.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="CLA_4bit_PTL_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="CLA_4bit_PTL_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="CLA_4bit_PTL_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="CLA_4bit_PTL.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="CLA_4bit_PTL_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="CLA_4bit_PTL_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="CLA_4bit_PTL_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="CLA_4bit_PTL_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="CLA_4bit_PTL_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="CLA_4bit_PTL_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="CLA_4bit_PTL.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="CLA_4bit_PTL_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="CLA_4bit_PTL.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="CLA_4bit_PTL_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="CLA_4bit_PTL_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="CLA_4bit_PTL.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="CLA_4bit_PTL_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="CLA_4bit_PTL_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="CLA_4bit_PTL_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="CLA_4bit_PTL_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="CLA_4bit_PTL_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="CLA_4bit_PTL_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="CLA_4bit_PTL_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="CLA_4bit_PTL_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="CLA_4bit_PTL_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="CLA_4bit_PTL_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="CLA_4bit_PTL_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="CLA_4bit_PTL_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="CLA_4bit_PTL_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="CLA_4bit_PTL_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="CLA_4bit_PTL_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="CLA_4bit_PTL_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="CLA_4bit_PTL_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="CLA_4bit_PTL_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="CLA_4bit_PTL_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="CLA_4bit_PTL.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="CLA_4bit_PTL_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="CLA_4bit_PTL.rbt"/>
+  <File Type="BITSTR-NKY" Name="CLA_4bit_PTL.nky"/>
+  <File Type="BG-DRC" Name="CLA_4bit_PTL.drc"/>
+  <File Type="RDI-RDI" Name="CLA_4bit_PTL.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/Course_Project/vericode.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Documents/ngspice-43_64/Spice64/College_Programs/Course_Project/vericode.v"/>
+        <Attr Name="ImportTime" Val="1731253027"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="CLA_4bit_PTL"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/abc.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

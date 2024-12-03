@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Nov 17 17:18:45 2024
+# Process ID: 24816
+# Current directory: C:/Users/Asus/Course_Project/Course_Project.runs/synth_1
+# Command line: vivado.exe -log CLA_4bit_PTL.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CLA_4bit_PTL.tcl
+# Log file: C:/Users/Asus/Course_Project/Course_Project.runs/synth_1/CLA_4bit_PTL.vds
+# Journal file: C:/Users/Asus/Course_Project/Course_Project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source CLA_4bit_PTL.tcl -notrace
