@@ -1,0 +1,18 @@
+* SPICE3 file created from orgate.ext - technology: scmos
+
+.option scale=0.09u
+
+M1000 vdd PC0 a_n240_1243# w_n246_1348# pfet w=80 l=2
++  ad=600 pd=260 as=800 ps=340
+M1001 gnd G0 a_n233_1200# Gnd nfet w=20 l=2
++  ad=300 pd=150 as=200 ps=100
+M1002 a_n233_1200# PC0 gnd Gnd nfet w=20 l=2
++  ad=0 pd=0 as=0 ps=0
+M1003 C1 a_n233_1200# vdd w_n212_1238# pfet w=40 l=2
++  ad=200 pd=90 as=0 ps=0
+M1004 C1 a_n233_1200# gnd Gnd nfet w=20 l=2
++  ad=100 pd=50 as=0 ps=0
+M1005 a_n233_1200# G0 a_n240_1243# w_n246_1237# pfet w=80 l=2
++  ad=400 pd=170 as=0 ps=0
+C0 w_n246_1237# Gnd 2.22fF
+C1 w_n246_1348# Gnd 2.22fF

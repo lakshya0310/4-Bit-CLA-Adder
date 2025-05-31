@@ -1,0 +1,16 @@
+* SPICE3 file created from andgate.ext - technology: scmos
+
+.option scale=0.09u
+
+M1000 a_n273_1349# A0 vdd w_n286_1406# pfet w=40 l=2
++  ad=400 pd=180 as=600 ps=270
+M1001 gnd B0 a_n280_1298# Gnd nfet w=40 l=2
++  ad=300 pd=140 as=400 ps=180
+M1002 a_n273_1349# A0 a_n280_1298# Gnd nfet w=40 l=2
++  ad=200 pd=90 as=0 ps=0
+M1003 a_n213_1377# a_n273_1349# gnd Gnd nfet w=20 l=2
++  ad=100 pd=50 as=0 ps=0
+M1004 a_n213_1377# a_n273_1349# vdd G0 pfet w=40 l=2
++  ad=200 pd=90 as=0 ps=0
+M1005 a_n273_1349# B0 vdd w_n256_1406# pfet w=40 l=2
++  ad=0 pd=0 as=0 ps=0

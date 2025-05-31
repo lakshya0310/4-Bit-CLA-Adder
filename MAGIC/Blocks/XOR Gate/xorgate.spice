@@ -1,0 +1,31 @@
+* SPICE3 file created from xorgate.ext - technology: scmos
+
+.option scale=0.09u
+
+M1000 a_n336_1044# A0_n P0 Gnd nfet w=40 l=2
++  ad=400 pd=180 as=400 ps=180
+M1001 a_n336_1044# B0_n gnd Gnd nfet w=40 l=2
++  ad=0 pd=0 as=600 ps=280
+M1002 A0_n A0 vdd w_n463_1276# pfet w=40 l=2
++  ad=200 pd=90 as=1200 ps=520
+M1003 a_n366_1044# A0 P0 Gnd nfet w=40 l=2
++  ad=400 pd=180 as=0 ps=0
+M1004 A0_n A0 gnd Gnd nfet w=20 l=2
++  ad=100 pd=50 as=0 ps=0
+M1005 a_n366_1044# B0 gnd Gnd nfet w=40 l=2
++  ad=0 pd=0 as=0 ps=0
+M1006 B0_n B0 vdd w_n429_1276# pfet w=40 l=2
++  ad=200 pd=90 as=0 ps=0
+M1007 B0_n B0 gnd Gnd nfet w=20 l=2
++  ad=100 pd=50 as=0 ps=0
+M1008 a_n366_1166# B0_n P0 w_n349_1160# pfet w=80 l=2
++  ad=1600 pd=680 as=800 ps=340
+M1009 a_n366_1166# B0 vdd w_n349_1265# pfet w=80 l=2
++  ad=0 pd=0 as=0 ps=0
+M1010 a_n366_1166# A0_n P0 w_n379_1160# pfet w=80 l=2
++  ad=0 pd=0 as=0 ps=0
+M1011 a_n366_1166# A0 vdd w_n379_1265# pfet w=80 l=2
++  ad=0 pd=0 as=0 ps=0
+C0 w_n349_1160# Gnd 2.22fF
+C1 w_n379_1160# Gnd 2.22fF
+C2 w_n349_1265# Gnd 2.22fF

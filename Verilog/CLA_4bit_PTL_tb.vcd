@@ -1,0 +1,86 @@
+$date
+	Sun Nov 17 15:37:07 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module CLA_4bit_PTL_tb $end
+$var wire 4 ! Sum [3:0] $end
+$var wire 1 " Cout $end
+$var reg 4 # A [3:0] $end
+$var reg 4 $ B [3:0] $end
+$var reg 1 % Cin $end
+$var reg 1 & clk $end
+$var reg 1 ' reset_n $end
+$scope module uut $end
+$var wire 4 ( A [3:0] $end
+$var wire 4 ) B [3:0] $end
+$var wire 1 % Cin $end
+$var wire 1 * Cout_unlatched $end
+$var wire 1 & clk $end
+$var wire 1 ' reset_n $end
+$var reg 4 + A_reg [3:0] $end
+$var reg 4 , B_reg [3:0] $end
+$var reg 4 - C [3:0] $end
+$var reg 1 . Cin_reg $end
+$var reg 1 " Cout $end
+$var reg 4 / G [3:0] $end
+$var reg 4 0 P [3:0] $end
+$var reg 4 1 Sum [3:0] $end
+$var reg 4 2 Sum_unlatched [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 2
+b0 1
+b0 0
+b0 /
+0.
+b0 -
+b0 ,
+b0 +
+0*
+b0 )
+b0 (
+0'
+0&
+0%
+b0 $
+b0 #
+0"
+b0 !
+$end
+#5000
+1'
+#10000
+1&
+#20000
+0&
+#30000
+b1000 2
+b1110 -
+b1 /
+b110 0
+b101 ,
+b11 +
+b101 $
+b101 )
+b11 #
+b11 (
+1&
+#40000
+0&
+#50000
+b1000 !
+b1000 1
+1&
+#60000
+0&
+#70000
+1&
+#80000
